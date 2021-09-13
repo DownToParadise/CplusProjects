@@ -1,0 +1,23 @@
+<Vertices> 6
+A B C D F H
+<Edges> 20
+A B 60
+B A 60
+A C 10
+C A 10
+A H 55
+H A 55
+B C 50
+C B 50
+C H 70
+H C 70
+B D 30
+D B 30
+D C 45
+C D 45
+D F 60
+F D 60
+C F 40
+F C 40
+F H 20
+H F 20

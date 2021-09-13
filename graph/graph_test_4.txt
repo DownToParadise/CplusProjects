@@ -1,0 +1,11 @@
+<Vertices> 6
+A B C D E F 
+<Edges> 8
+A B 0
+A D 0
+A E 0
+B F 0
+C B 0
+C F 0
+D E 0
+E F 0

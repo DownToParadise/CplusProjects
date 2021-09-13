@@ -1,0 +1,15 @@
+<Vertices> 11
+H I J K A B C D E F G 
+<Edges> 12
+A B 0
+A G 0
+A H 0
+B C 0
+C D 0
+C F 0
+D E 0
+F E 0
+G C 0
+H I 0
+I F 0
+J K 0
